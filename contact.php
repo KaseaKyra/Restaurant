@@ -10,7 +10,8 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-4 col-md-push-4 text-center">
+		<div class="col-sm-4">
+		<div class="col-sm-4 text-center">
 			<form method="POST" action="">
 				<div class="form-group">
 					<label for="inputPassword3" class="col-form-label">Your name</label>
@@ -47,6 +48,7 @@
 				</div> <!-- form-group submit -->
 			</form>
 		</div> <!-- col-sm-4 form -->
+		<div class="col-sm-4">
 	</div> <!-- row -->
 </div> <!-- container -->
 
